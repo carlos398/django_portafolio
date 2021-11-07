@@ -121,7 +121,7 @@ USE_TZ = True
 
 STATIC_URL = '/static/'
 
-MEDIA_ROOT = BASE_DIR / 'media'
+MEDIA_ROOT = BASE_DIR / 'media' #configuracion para tener la carpeta base donde se almacene la media
 
 MEDIA_URL = '/media/'
 
